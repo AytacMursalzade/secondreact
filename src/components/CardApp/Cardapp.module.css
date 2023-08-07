@@ -1,0 +1,13 @@
+.mainsign{
+    font-size: 26px;
+    color: red;
+}
+
+.btnClass{
+    width: 70px;
+    height: 20px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
